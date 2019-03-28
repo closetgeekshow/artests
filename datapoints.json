@@ -1,5 +1,5 @@
 [
   {"x": 1, "y": 1, "z": 0, "size": 61.3, "color": "#00A69C", "label": "InVigor L255PC"},
-  {"x": 3, "y": 0, "z": 0, "size": 61.3, "color": "#A8A9AD", "label": "Dekalb 75-42"},
-  {"x": 5, "y": 0, "z": 0, "size": 61.1, "color": "#6D6E72", "label": "Canterra CS2000"}
+  {"x": 1, "y": 0, "z": 0, "size": 61.3, "color": "#A8A9AD", "label": "Dekalb 75-42"},
+  {"x": 1, "y": 0, "z": 0, "size": 61.1, "color": "#6D6E72", "label": "Canterra CS2000"}
 ]  
